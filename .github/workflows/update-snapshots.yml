@@ -1,0 +1,38 @@
+name: Update Snapshots
+
+on:
+  schedule:
+    # KST 00:00 (UTC 15:00)
+    - cron: '0 15 * * *'
+    # KST 12:00 (UTC 03:00)
+    - cron: '0 3 * * *'
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Update snapshots
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          node scripts/update-snapshots.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/data/snapshots.json
+          git diff --staged --quiet || git commit -m "Update snapshots - $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push
