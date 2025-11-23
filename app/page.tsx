@@ -18,6 +18,40 @@ export default function Home() {
     fetchVideos();
   }, []);
 
+  // Update selectedArtist when language changes
+  useEffect(() => {
+    if (!selectedArtist || videos.length === 0) return;
+
+    // Build artist name mapping (ko <-> ja)
+    const koToJa: Record<string, string> = {};
+    const jaToKo: Record<string, string> = {};
+
+    videos.forEach(video => {
+      const koNames = video.artist.split(/[,，]/).map(name => name.trim());
+      const jaNames = video.artist_ja ? video.artist_ja.split(/[,，]/).map(name => name.trim()) : koNames;
+
+      koNames.forEach((ko, i) => {
+        const ja = jaNames[i] || ko;
+        if (!koToJa[ko]) koToJa[ko] = ja;
+        if (!jaToKo[ja]) jaToKo[ja] = ko;
+      });
+    });
+
+    if (language === 'ja') {
+      // Convert ko -> ja
+      const jaName = koToJa[selectedArtist];
+      if (jaName && jaName !== selectedArtist) {
+        setSelectedArtist(jaName);
+      }
+    } else {
+      // Convert ja -> ko
+      const koName = jaToKo[selectedArtist];
+      if (koName && koName !== selectedArtist) {
+        setSelectedArtist(koName);
+      }
+    }
+  }, [language, videos]);
+
   const fetchVideos = async () => {
     try {
       // Load videos and snapshots from JSON files
@@ -44,7 +78,7 @@ export default function Home() {
   };
 
   // Extract unique individual artist names for the select dropdown
-  const excludedArtists = ['린', '조째즈', '김다현', '요요미', '윤미라', '마리아', '민은경', '민수현', '황민호', '성리', 'リン', 'ジョジェズ', 'キムダヒョン', 'ヨヨミ', 'ユンミラ', 'マリア', 'ミンウンギョン', 'ミンスヒョン', 'ファンミノ', 'ソンリ'];
+  const excludedArtists = ['린', '조째즈', '김다현', '요요미', '윤미라', '마리아', '민은경', '민수현', '황민호', '성리', '신영숙', '윤수현', 'リン', 'ジョジェズ', 'キムダヒョン', 'ヨヨミ', 'ユンミラ', 'マリア', 'ミンウンギョン', 'ミンスヒョン', 'ファンミノ', 'ソンリ', 'シンヨンスク', 'ユンスヒョン'];
   const uniqueArtists = [...new Set(
     videos.flatMap(video => {
       const artistName = language === 'ja' && video.artist_ja ? video.artist_ja : video.artist;
@@ -98,9 +132,9 @@ export default function Home() {
   return (
     <main className="container mx-auto px-4 py-8 max-w-3xl">
       <header className="mb-8">
-        <div className="flex items-center justify-between mb-4">
-          <h1 className="text-2xl font-bold text-gray-900">
-            {language === 'ja' ? '日韓トップテン再生数トラッカー' : '한일톱텐 차트 조회수 트래커'}
+        <div className="flex items-center justify-between gap-2 mb-4">
+          <h1 className="text-lg sm:text-2xl font-bold text-gray-900">
+            {language === 'ja' ? '日韓トップテン再生数トラッカー' : '한일톱텐 조회수 트래커'}
           </h1>
           <LanguageSwitch />
         </div>
@@ -109,6 +143,18 @@ export default function Home() {
             {language === 'ja' ? '最終更新: ' : '마지막 업데이트: '}{formatDate(latestUpdate.created_at)}
           </p>
         )}
+        <div className="text-xs text-gray-400 mt-1">
+          <p>
+            {language === 'ja'
+              ? '🥈 100万回以上 = シルバー / 🥇 500万回以上 = ゴールド'
+              : '🥈 100만회 이상 = 실버 / 🥇 500만회 이상 = 골드'}
+          </p>
+          <p className="text-[10px] sm:text-xs">
+            {language === 'ja'
+              ? '(トロット歌王 + MBN Music + ベネフィット)'
+              : '(트롯가왕 + MBN Music + 베네핏)'}
+          </p>
+        </div>
 
         <div className="mt-4">
           <select
