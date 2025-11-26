@@ -78,7 +78,7 @@ export default function Home() {
   };
 
   // Extract unique individual artist names for the select dropdown
-  const excludedArtists = ['린', '조째즈', '김다현', '요요미', '윤미라', '마리아', '민은경', '민수현', '황민호', '성리', '신영숙', '윤수현', 'リン', 'ジョジェズ', 'キムダヒョン', 'ヨヨミ', 'ユンミラ', 'マリア', 'ミンウンギョン', 'ミンスヒョン', 'ファンミノ', 'ソンリ', 'シンヨンスク', 'ユンスヒョン'];
+  const excludedArtists = ['린', '조째즈', '김다현', '요요미', '윤미라', '마리아', '민은경', '민수현', '황민호', '성리', '신영숙', '윤수현', '환희', '김미령', '후타미소이치', '손승연', '서영은', '박민주', 'リン', 'ジョジェズ', 'キムダヒョン', 'ヨヨミ', 'ユンミラ', 'マリア', 'ミンウンギョン', 'ミンスヒョン', 'ファンミノ', 'ソンリ', 'シンヨンスク', 'ユンスヒョン', 'ファンヒ', 'キムミリョン', 'フタミソウイチ', 'ソンスンヨン', 'ソヨンウン', 'パクミンジュ'];
   const uniqueArtists = [...new Set(
     videos.flatMap(video => {
       const artistName = language === 'ja' && video.artist_ja ? video.artist_ja : video.artist;
