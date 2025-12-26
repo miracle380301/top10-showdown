@@ -1,842 +1,842 @@
 {
-  "updated_at": "2025-12-26T03:57:42.292Z",
+  "updated_at": "2025-12-26T11:43:45.254Z",
   "data": {
     "1": {
-      "id": "snapshot-1-1766721462680",
+      "id": "snapshot-1-1766749425600",
       "video_id": "1",
-      "url1_views": 209515,
-      "url2_views": 1653473,
-      "total_views": 1912988,
+      "url1_views": 209985,
+      "url2_views": 1657851,
+      "total_views": 1917836,
       "tier": "silver",
-      "created_at": "2025-12-26T03:57:42.680Z"
+      "created_at": "2025-12-26T11:43:45.600Z"
     },
     "2": {
-      "id": "snapshot-2-1766721463218",
+      "id": "snapshot-2-1766749425904",
       "video_id": "2",
-      "url1_views": 104979,
-      "url2_views": 383614,
-      "total_views": 488593,
+      "url1_views": 105288,
+      "url2_views": 385299,
+      "total_views": 490587,
       "tier": "",
-      "created_at": "2025-12-26T03:57:43.218Z"
+      "created_at": "2025-12-26T11:43:45.904Z"
     },
     "3": {
-      "id": "snapshot-3-1766721463432",
+      "id": "snapshot-3-1766749426230",
       "video_id": "3",
-      "url1_views": 93151,
-      "url2_views": 282350,
-      "total_views": 425501,
+      "url1_views": 93449,
+      "url2_views": 282659,
+      "total_views": 426108,
       "tier": "",
-      "created_at": "2025-12-26T03:57:43.432Z"
+      "created_at": "2025-12-26T11:43:46.230Z"
     },
     "4": {
-      "id": "snapshot-4-1766721463714",
+      "id": "snapshot-4-1766749426554",
       "video_id": "4",
-      "url1_views": 70554,
-      "url2_views": 329257,
-      "total_views": 399811,
+      "url1_views": 70807,
+      "url2_views": 331189,
+      "total_views": 401996,
       "tier": "",
-      "created_at": "2025-12-26T03:57:43.714Z"
+      "created_at": "2025-12-26T11:43:46.554Z"
     },
     "5": {
-      "id": "snapshot-5-1766721463938",
+      "id": "snapshot-5-1766749426773",
       "video_id": "5",
-      "url1_views": 65744,
-      "url2_views": 384260,
-      "total_views": 450004,
+      "url1_views": 65876,
+      "url2_views": 385417,
+      "total_views": 451293,
       "tier": "",
-      "created_at": "2025-12-26T03:57:43.938Z"
+      "created_at": "2025-12-26T11:43:46.773Z"
     },
     "6": {
-      "id": "snapshot-6-1766721464209",
+      "id": "snapshot-6-1766749426989",
       "video_id": "6",
-      "url1_views": 75267,
-      "url2_views": 285311,
-      "total_views": 360578,
+      "url1_views": 75445,
+      "url2_views": 286233,
+      "total_views": 361678,
       "tier": "",
-      "created_at": "2025-12-26T03:57:44.209Z"
+      "created_at": "2025-12-26T11:43:46.989Z"
     },
     "7": {
-      "id": "snapshot-7-1766721464422",
+      "id": "snapshot-7-1766749427228",
       "video_id": "7",
-      "url1_views": 59188,
-      "url2_views": 653349,
-      "total_views": 762537,
+      "url1_views": 59516,
+      "url2_views": 655544,
+      "total_views": 765060,
       "tier": "",
-      "created_at": "2025-12-26T03:57:44.422Z"
+      "created_at": "2025-12-26T11:43:47.228Z"
     },
     "8": {
-      "id": "snapshot-8-1766721464640",
+      "id": "snapshot-8-1766749427440",
       "video_id": "8",
-      "url1_views": 456113,
-      "url2_views": 1027567,
-      "total_views": 1483680,
+      "url1_views": 457392,
+      "url2_views": 1031221,
+      "total_views": 1488613,
       "tier": "silver",
-      "created_at": "2025-12-26T03:57:44.640Z"
+      "created_at": "2025-12-26T11:43:47.440Z"
     },
     "9": {
-      "id": "snapshot-9-1766721464851",
+      "id": "snapshot-9-1766749427701",
       "video_id": "9",
-      "url1_views": 285474,
-      "url2_views": 1177672,
-      "total_views": 1463146,
+      "url1_views": 286417,
+      "url2_views": 1180717,
+      "total_views": 1467134,
       "tier": "silver",
-      "created_at": "2025-12-26T03:57:44.851Z"
+      "created_at": "2025-12-26T11:43:47.701Z"
     },
     "10": {
-      "id": "snapshot-10-1766721465113",
+      "id": "snapshot-10-1766749427911",
       "video_id": "10",
-      "url1_views": 65524,
-      "url2_views": 956111,
-      "total_views": 1071635,
+      "url1_views": 65706,
+      "url2_views": 958864,
+      "total_views": 1074570,
       "tier": "silver",
-      "created_at": "2025-12-26T03:57:45.113Z"
+      "created_at": "2025-12-26T11:43:47.911Z"
     },
     "11": {
-      "id": "snapshot-11-1766721465325",
+      "id": "snapshot-11-1766749428197",
       "video_id": "11",
-      "url1_views": 69805,
-      "url2_views": 416592,
-      "total_views": 536397,
+      "url1_views": 69893,
+      "url2_views": 417359,
+      "total_views": 537252,
       "tier": "",
-      "created_at": "2025-12-26T03:57:45.325Z"
+      "created_at": "2025-12-26T11:43:48.197Z"
     },
     "12": {
-      "id": "snapshot-12-1766721465581",
+      "id": "snapshot-12-1766749428487",
       "video_id": "12",
-      "url1_views": 35263,
-      "url2_views": 401471,
-      "total_views": 486734,
+      "url1_views": 35386,
+      "url2_views": 403231,
+      "total_views": 488617,
       "tier": "",
-      "created_at": "2025-12-26T03:57:45.581Z"
+      "created_at": "2025-12-26T11:43:48.487Z"
     },
     "13": {
-      "id": "snapshot-13-1766721465781",
+      "id": "snapshot-13-1766749428701",
       "video_id": "13",
-      "url1_views": 15706,
-      "url2_views": 173544,
-      "total_views": 189250,
+      "url1_views": 15782,
+      "url2_views": 173903,
+      "total_views": 189685,
       "tier": "",
-      "created_at": "2025-12-26T03:57:45.781Z"
+      "created_at": "2025-12-26T11:43:48.701Z"
     },
     "14": {
-      "id": "snapshot-14-1766721466078",
+      "id": "snapshot-14-1766749428942",
       "video_id": "14",
-      "url1_views": 120006,
-      "url2_views": 1206148,
-      "total_views": 1326154,
+      "url1_views": 120132,
+      "url2_views": 1207507,
+      "total_views": 1327639,
       "tier": "silver",
-      "created_at": "2025-12-26T03:57:46.078Z"
+      "created_at": "2025-12-26T11:43:48.942Z"
     },
     "15": {
-      "id": "snapshot-15-1766721466282",
+      "id": "snapshot-15-1766749429186",
       "video_id": "15",
-      "url1_views": 20573,
-      "url2_views": 201317,
-      "total_views": 221890,
+      "url1_views": 20587,
+      "url2_views": 201957,
+      "total_views": 222544,
       "tier": "",
-      "created_at": "2025-12-26T03:57:46.282Z"
+      "created_at": "2025-12-26T11:43:49.186Z"
     },
     "16": {
-      "id": "snapshot-16-1766721466592",
+      "id": "snapshot-16-1766749429445",
       "video_id": "16",
-      "url1_views": 9073,
-      "url2_views": 247049,
-      "total_views": 256122,
+      "url1_views": 9086,
+      "url2_views": 248116,
+      "total_views": 257202,
       "tier": "",
-      "created_at": "2025-12-26T03:57:46.592Z"
+      "created_at": "2025-12-26T11:43:49.445Z"
     },
     "17": {
-      "id": "snapshot-17-1766721466867",
+      "id": "snapshot-17-1766749429714",
       "video_id": "17",
-      "url1_views": 23647,
-      "url2_views": 233065,
-      "total_views": 306712,
+      "url1_views": 23685,
+      "url2_views": 233594,
+      "total_views": 307279,
       "tier": "",
-      "created_at": "2025-12-26T03:57:46.867Z"
+      "created_at": "2025-12-26T11:43:49.714Z"
     },
     "18": {
-      "id": "snapshot-18-1766721467121",
+      "id": "snapshot-18-1766749429948",
       "video_id": "18",
-      "url1_views": 33758,
-      "url2_views": 215752,
-      "total_views": 299510,
+      "url1_views": 33894,
+      "url2_views": 216117,
+      "total_views": 300011,
       "tier": "",
-      "created_at": "2025-12-26T03:57:47.121Z"
+      "created_at": "2025-12-26T11:43:49.948Z"
     },
     "19": {
-      "id": "snapshot-19-1766721467343",
+      "id": "snapshot-19-1766749430178",
       "video_id": "19",
-      "url1_views": 9416,
-      "url2_views": 175995,
-      "total_views": 185411,
+      "url1_views": 9436,
+      "url2_views": 177200,
+      "total_views": 186636,
       "tier": "",
-      "created_at": "2025-12-26T03:57:47.343Z"
+      "created_at": "2025-12-26T11:43:50.178Z"
     },
     "20": {
-      "id": "snapshot-20-1766721467577",
+      "id": "snapshot-20-1766749430379",
       "video_id": "20",
-      "url1_views": 77583,
-      "url2_views": 591443,
-      "total_views": 669026,
+      "url1_views": 77679,
+      "url2_views": 594118,
+      "total_views": 671797,
       "tier": "",
-      "created_at": "2025-12-26T03:57:47.577Z"
+      "created_at": "2025-12-26T11:43:50.379Z"
     },
     "21": {
-      "id": "snapshot-21-1766721467825",
+      "id": "snapshot-21-1766749430613",
       "video_id": "21",
-      "url1_views": 9666,
-      "url2_views": 174938,
-      "total_views": 184604,
+      "url1_views": 9680,
+      "url2_views": 175324,
+      "total_views": 185004,
       "tier": "",
-      "created_at": "2025-12-26T03:57:47.825Z"
+      "created_at": "2025-12-26T11:43:50.613Z"
     },
     "22": {
-      "id": "snapshot-22-1766721468071",
+      "id": "snapshot-22-1766749430816",
       "video_id": "22",
-      "url1_views": 57015,
-      "url2_views": 203335,
-      "total_views": 310350,
+      "url1_views": 57176,
+      "url2_views": 203497,
+      "total_views": 310673,
       "tier": "",
-      "created_at": "2025-12-26T03:57:48.071Z"
+      "created_at": "2025-12-26T11:43:50.816Z"
     },
     "23": {
-      "id": "snapshot-23-1766721468278",
+      "id": "snapshot-23-1766749431023",
       "video_id": "23",
-      "url1_views": 17753,
-      "url2_views": 175264,
-      "total_views": 193017,
+      "url1_views": 17786,
+      "url2_views": 175717,
+      "total_views": 193503,
       "tier": "",
-      "created_at": "2025-12-26T03:57:48.278Z"
+      "created_at": "2025-12-26T11:43:51.023Z"
     },
     "24": {
-      "id": "snapshot-24-1766721468523",
+      "id": "snapshot-24-1766749431328",
       "video_id": "24",
-      "url1_views": 33799,
-      "url2_views": 222723,
-      "total_views": 256522,
+      "url1_views": 34202,
+      "url2_views": 223595,
+      "total_views": 257797,
       "tier": "",
-      "created_at": "2025-12-26T03:57:48.523Z"
+      "created_at": "2025-12-26T11:43:51.328Z"
     },
     "25": {
-      "id": "snapshot-25-1766721468722",
+      "id": "snapshot-25-1766749431532",
       "video_id": "25",
-      "url1_views": 85589,
-      "url2_views": 1055280,
-      "total_views": 1190869,
+      "url1_views": 85627,
+      "url2_views": 1055642,
+      "total_views": 1191269,
       "tier": "silver",
-      "created_at": "2025-12-26T03:57:48.722Z"
+      "created_at": "2025-12-26T11:43:51.532Z"
     },
     "26": {
-      "id": "snapshot-26-1766721468924",
+      "id": "snapshot-26-1766749431764",
       "video_id": "26",
-      "url1_views": 26401,
-      "url2_views": 84530,
-      "total_views": 110931,
+      "url1_views": 26448,
+      "url2_views": 84682,
+      "total_views": 111130,
       "tier": "",
-      "created_at": "2025-12-26T03:57:48.924Z"
+      "created_at": "2025-12-26T11:43:51.764Z"
     },
     "27": {
-      "id": "snapshot-27-1766721469194",
+      "id": "snapshot-27-1766749432048",
       "video_id": "27",
-      "url1_views": 34069,
-      "url2_views": 248351,
-      "total_views": 282420,
+      "url1_views": 34073,
+      "url2_views": 248497,
+      "total_views": 282570,
       "tier": "",
-      "created_at": "2025-12-26T03:57:49.194Z"
+      "created_at": "2025-12-26T11:43:52.048Z"
     },
     "28": {
-      "id": "snapshot-28-1766721469448",
+      "id": "snapshot-28-1766749432298",
       "video_id": "28",
-      "url1_views": 55611,
-      "url2_views": 774429,
-      "total_views": 830040,
+      "url1_views": 55688,
+      "url2_views": 774925,
+      "total_views": 830613,
       "tier": "",
-      "created_at": "2025-12-26T03:57:49.448Z"
+      "created_at": "2025-12-26T11:43:52.298Z"
     },
     "29": {
-      "id": "snapshot-29-1766721469650",
+      "id": "snapshot-29-1766749432530",
       "video_id": "29",
-      "url1_views": 28618,
-      "url2_views": 123651,
-      "total_views": 152269,
+      "url1_views": 28635,
+      "url2_views": 124015,
+      "total_views": 152650,
       "tier": "",
-      "created_at": "2025-12-26T03:57:49.650Z"
+      "created_at": "2025-12-26T11:43:52.530Z"
     },
     "30": {
-      "id": "snapshot-30-1766721469889",
+      "id": "snapshot-30-1766749432814",
       "video_id": "30",
-      "url1_views": 43175,
-      "url2_views": 310709,
-      "total_views": 353884,
+      "url1_views": 43198,
+      "url2_views": 311109,
+      "total_views": 354307,
       "tier": "",
-      "created_at": "2025-12-26T03:57:49.889Z"
+      "created_at": "2025-12-26T11:43:52.814Z"
     },
     "31": {
-      "id": "snapshot-31-1766721470127",
+      "id": "snapshot-31-1766749433082",
       "video_id": "31",
-      "url1_views": 22096,
-      "url2_views": 95905,
-      "total_views": 118001,
+      "url1_views": 22156,
+      "url2_views": 96183,
+      "total_views": 118339,
       "tier": "",
-      "created_at": "2025-12-26T03:57:50.127Z"
+      "created_at": "2025-12-26T11:43:53.082Z"
     },
     "32": {
-      "id": "snapshot-32-1766721470379",
+      "id": "snapshot-32-1766749433319",
       "video_id": "32",
-      "url1_views": 27174,
-      "url2_views": 203510,
-      "total_views": 230684,
+      "url1_views": 27191,
+      "url2_views": 204041,
+      "total_views": 231232,
       "tier": "",
-      "created_at": "2025-12-26T03:57:50.379Z"
+      "created_at": "2025-12-26T11:43:53.319Z"
     },
     "33": {
-      "id": "snapshot-33-1766721470645",
+      "id": "snapshot-33-1766749433521",
       "video_id": "33",
-      "url1_views": 69008,
-      "url2_views": 220706,
-      "total_views": 289714,
+      "url1_views": 69369,
+      "url2_views": 221850,
+      "total_views": 291219,
       "tier": "",
-      "created_at": "2025-12-26T03:57:50.645Z"
+      "created_at": "2025-12-26T11:43:53.521Z"
     },
     "34": {
-      "id": "snapshot-34-1766721470909",
+      "id": "snapshot-34-1766749433788",
       "video_id": "34",
-      "url1_views": 64730,
-      "url2_views": 466993,
-      "total_views": 581723,
+      "url1_views": 65009,
+      "url2_views": 468536,
+      "total_views": 583545,
       "tier": "",
-      "created_at": "2025-12-26T03:57:50.909Z"
+      "created_at": "2025-12-26T11:43:53.788Z"
     },
     "35": {
-      "id": "snapshot-35-1766721471129",
+      "id": "snapshot-35-1766749434036",
       "video_id": "35",
-      "url1_views": 2709,
-      "url2_views": 51723,
-      "total_views": 54432,
+      "url1_views": 2711,
+      "url2_views": 51763,
+      "total_views": 54474,
       "tier": "",
-      "created_at": "2025-12-26T03:57:51.129Z"
+      "created_at": "2025-12-26T11:43:54.036Z"
     },
     "36": {
-      "id": "snapshot-36-1766721471336",
+      "id": "snapshot-36-1766749434269",
       "video_id": "36",
-      "url1_views": 7128,
-      "url2_views": 134906,
-      "total_views": 142034,
+      "url1_views": 7157,
+      "url2_views": 135705,
+      "total_views": 142862,
       "tier": "",
-      "created_at": "2025-12-26T03:57:51.336Z"
+      "created_at": "2025-12-26T11:43:54.269Z"
     },
     "37": {
-      "id": "snapshot-37-1766721471569",
+      "id": "snapshot-37-1766749434510",
       "video_id": "37",
-      "url1_views": 7558,
-      "url2_views": 66335,
-      "total_views": 73893,
+      "url1_views": 7589,
+      "url2_views": 66745,
+      "total_views": 74334,
       "tier": "",
-      "created_at": "2025-12-26T03:57:51.569Z"
+      "created_at": "2025-12-26T11:43:54.510Z"
     },
     "38": {
-      "id": "snapshot-38-1766721471852",
+      "id": "snapshot-38-1766749434715",
       "video_id": "38",
-      "url1_views": 7821,
-      "url2_views": 73350,
-      "total_views": 81171,
+      "url1_views": 7832,
+      "url2_views": 73781,
+      "total_views": 81613,
       "tier": "",
-      "created_at": "2025-12-26T03:57:51.852Z"
+      "created_at": "2025-12-26T11:43:54.715Z"
     },
     "39": {
-      "id": "snapshot-39-1766721472076",
+      "id": "snapshot-39-1766749434915",
       "video_id": "39",
-      "url1_views": 5641,
-      "url2_views": 63313,
-      "total_views": 68954,
+      "url1_views": 5644,
+      "url2_views": 63512,
+      "total_views": 69156,
       "tier": "",
-      "created_at": "2025-12-26T03:57:52.076Z"
+      "created_at": "2025-12-26T11:43:54.915Z"
     },
     "40": {
-      "id": "snapshot-40-1766721472339",
+      "id": "snapshot-40-1766749435146",
       "video_id": "40",
-      "url1_views": 7123,
-      "url2_views": 39591,
-      "total_views": 46714,
+      "url1_views": 7140,
+      "url2_views": 39684,
+      "total_views": 46824,
       "tier": "",
-      "created_at": "2025-12-26T03:57:52.339Z"
+      "created_at": "2025-12-26T11:43:55.146Z"
     },
     "41": {
-      "id": "snapshot-41-1766721472590",
+      "id": "snapshot-41-1766749435402",
       "video_id": "41",
-      "url1_views": 6010,
-      "url2_views": 58590,
-      "total_views": 64600,
+      "url1_views": 6018,
+      "url2_views": 58633,
+      "total_views": 64651,
       "tier": "",
-      "created_at": "2025-12-26T03:57:52.590Z"
+      "created_at": "2025-12-26T11:43:55.402Z"
     },
     "42": {
-      "id": "snapshot-42-1766721472794",
+      "id": "snapshot-42-1766749435666",
       "video_id": "42",
-      "url1_views": 15461,
-      "url2_views": 79336,
-      "total_views": 94797,
+      "url1_views": 15498,
+      "url2_views": 79563,
+      "total_views": 95061,
       "tier": "",
-      "created_at": "2025-12-26T03:57:52.794Z"
+      "created_at": "2025-12-26T11:43:55.666Z"
     },
     "43": {
-      "id": "snapshot-43-1766721473028",
+      "id": "snapshot-43-1766749435903",
       "video_id": "43",
-      "url1_views": 7992,
-      "url2_views": 83790,
-      "total_views": 91782,
+      "url1_views": 8030,
+      "url2_views": 84427,
+      "total_views": 92457,
       "tier": "",
-      "created_at": "2025-12-26T03:57:53.028Z"
+      "created_at": "2025-12-26T11:43:55.903Z"
     },
     "44": {
-      "id": "snapshot-44-1766721473223",
+      "id": "snapshot-44-1766749436177",
       "video_id": "44",
-      "url1_views": 622262,
-      "url2_views": 1219475,
-      "total_views": 1841737,
+      "url1_views": 624045,
+      "url2_views": 1221679,
+      "total_views": 1845724,
       "tier": "silver",
-      "created_at": "2025-12-26T03:57:53.223Z"
+      "created_at": "2025-12-26T11:43:56.177Z"
     },
     "45": {
-      "id": "snapshot-45-1766721473426",
+      "id": "snapshot-45-1766749436379",
       "video_id": "45",
-      "url1_views": 445144,
-      "url2_views": 1273919,
-      "total_views": 1719063,
+      "url1_views": 446764,
+      "url2_views": 1277756,
+      "total_views": 1724520,
       "tier": "silver",
-      "created_at": "2025-12-26T03:57:53.426Z"
+      "created_at": "2025-12-26T11:43:56.379Z"
     },
     "46": {
-      "id": "snapshot-46-1766721473627",
+      "id": "snapshot-46-1766749436658",
       "video_id": "46",
-      "url1_views": 220746,
-      "url2_views": 1344013,
-      "total_views": 1564759,
+      "url1_views": 221297,
+      "url2_views": 1347419,
+      "total_views": 1568716,
       "tier": "silver",
-      "created_at": "2025-12-26T03:57:53.627Z"
+      "created_at": "2025-12-26T11:43:56.658Z"
     },
     "47": {
-      "id": "snapshot-47-1766721473836",
+      "id": "snapshot-47-1766749436898",
       "video_id": "47",
-      "url1_views": 349540,
-      "url2_views": 1749120,
-      "total_views": 2148660,
+      "url1_views": 350297,
+      "url2_views": 1752973,
+      "total_views": 2153270,
       "tier": "silver",
-      "created_at": "2025-12-26T03:57:53.836Z"
+      "created_at": "2025-12-26T11:43:56.898Z"
     },
     "48": {
-      "id": "snapshot-48-1766721474033",
+      "id": "snapshot-48-1766749437100",
       "video_id": "48",
-      "url1_views": 655371,
-      "url2_views": 3143137,
-      "total_views": 3798508,
+      "url1_views": 656495,
+      "url2_views": 3149311,
+      "total_views": 3805806,
       "tier": "silver",
-      "created_at": "2025-12-26T03:57:54.033Z"
+      "created_at": "2025-12-26T11:43:57.100Z"
     },
     "49": {
-      "id": "snapshot-49-1766721474248",
+      "id": "snapshot-49-1766749437352",
       "video_id": "49",
-      "url1_views": 179948,
-      "url2_views": 685141,
-      "total_views": 865089,
+      "url1_views": 181024,
+      "url2_views": 686089,
+      "total_views": 867113,
       "tier": "",
-      "created_at": "2025-12-26T03:57:54.248Z"
+      "created_at": "2025-12-26T11:43:57.352Z"
     },
     "50": {
-      "id": "snapshot-50-1766721474486",
+      "id": "snapshot-50-1766749437603",
       "video_id": "50",
-      "url1_views": 61105,
-      "url2_views": 84409,
-      "total_views": 145514,
+      "url1_views": 61422,
+      "url2_views": 84733,
+      "total_views": 146155,
       "tier": "",
-      "created_at": "2025-12-26T03:57:54.486Z"
+      "created_at": "2025-12-26T11:43:57.603Z"
     },
     "51": {
-      "id": "snapshot-51-1766721474725",
+      "id": "snapshot-51-1766749437810",
       "video_id": "51",
-      "url1_views": 23956,
-      "url2_views": 120161,
-      "total_views": 144117,
+      "url1_views": 23985,
+      "url2_views": 120355,
+      "total_views": 144340,
       "tier": "",
-      "created_at": "2025-12-26T03:57:54.725Z"
+      "created_at": "2025-12-26T11:43:57.810Z"
     },
     "52": {
-      "id": "snapshot-52-1766721475006",
+      "id": "snapshot-52-1766749438043",
       "video_id": "52",
-      "url1_views": 21503,
-      "url2_views": 112801,
-      "total_views": 134304,
+      "url1_views": 21512,
+      "url2_views": 113147,
+      "total_views": 134659,
       "tier": "",
-      "created_at": "2025-12-26T03:57:55.006Z"
+      "created_at": "2025-12-26T11:43:58.043Z"
     },
     "53": {
-      "id": "snapshot-53-1766721475214",
+      "id": "snapshot-53-1766749438273",
       "video_id": "53",
-      "url1_views": 27926,
-      "url2_views": 110827,
-      "total_views": 138753,
+      "url1_views": 27985,
+      "url2_views": 111130,
+      "total_views": 139115,
       "tier": "",
-      "created_at": "2025-12-26T03:57:55.214Z"
+      "created_at": "2025-12-26T11:43:58.273Z"
     },
     "54": {
-      "id": "snapshot-54-1766721475413",
+      "id": "snapshot-54-1766749438482",
       "video_id": "54",
-      "url1_views": 84229,
-      "url2_views": 174006,
-      "total_views": 258235,
+      "url1_views": 84593,
+      "url2_views": 174500,
+      "total_views": 259093,
       "tier": "",
-      "created_at": "2025-12-26T03:57:55.413Z"
+      "created_at": "2025-12-26T11:43:58.482Z"
     },
     "55": {
-      "id": "snapshot-55-1766721475641",
+      "id": "snapshot-55-1766749438762",
       "video_id": "55",
-      "url1_views": 34875,
-      "url2_views": 90155,
-      "total_views": 125030,
+      "url1_views": 34985,
+      "url2_views": 90307,
+      "total_views": 125292,
       "tier": "",
-      "created_at": "2025-12-26T03:57:55.641Z"
+      "created_at": "2025-12-26T11:43:58.762Z"
     },
     "56": {
-      "id": "snapshot-56-1766721475869",
+      "id": "snapshot-56-1766749438999",
       "video_id": "56",
-      "url1_views": 40369,
-      "url2_views": 124557,
-      "total_views": 164926,
+      "url1_views": 40477,
+      "url2_views": 124870,
+      "total_views": 165347,
       "tier": "",
-      "created_at": "2025-12-26T03:57:55.869Z"
+      "created_at": "2025-12-26T11:43:58.999Z"
     },
     "57": {
-      "id": "snapshot-57-1766721476118",
+      "id": "snapshot-57-1766749439215",
       "video_id": "57",
-      "url1_views": 91252,
-      "url2_views": 518894,
-      "total_views": 660146,
+      "url1_views": 91478,
+      "url2_views": 521067,
+      "total_views": 662545,
       "tier": "",
-      "created_at": "2025-12-26T03:57:56.118Z"
+      "created_at": "2025-12-26T11:43:59.215Z"
     },
     "58": {
-      "id": "snapshot-58-1766721476369",
+      "id": "snapshot-58-1766749439461",
       "video_id": "58",
-      "url1_views": 82059,
-      "url2_views": 293811,
-      "total_views": 375870,
+      "url1_views": 82190,
+      "url2_views": 294848,
+      "total_views": 377038,
       "tier": "",
-      "created_at": "2025-12-26T03:57:56.369Z"
+      "created_at": "2025-12-26T11:43:59.461Z"
     },
     "59": {
-      "id": "snapshot-59-1766721476638",
+      "id": "snapshot-59-1766749439664",
       "video_id": "59",
-      "url1_views": 19570,
-      "url2_views": 71606,
-      "total_views": 91176,
+      "url1_views": 19631,
+      "url2_views": 71874,
+      "total_views": 91505,
       "tier": "",
-      "created_at": "2025-12-26T03:57:56.638Z"
+      "created_at": "2025-12-26T11:43:59.664Z"
     },
     "60": {
-      "id": "snapshot-60-1766721476845",
+      "id": "snapshot-60-1766749439906",
       "video_id": "60",
-      "url1_views": 33694,
-      "url2_views": 232140,
-      "total_views": 265834,
+      "url1_views": 33841,
+      "url2_views": 232904,
+      "total_views": 266745,
       "tier": "",
-      "created_at": "2025-12-26T03:57:56.845Z"
+      "created_at": "2025-12-26T11:43:59.906Z"
     },
     "61": {
-      "id": "snapshot-61-1766721477084",
+      "id": "snapshot-61-1766749440176",
       "video_id": "61",
-      "url1_views": 34197,
-      "url2_views": 163267,
-      "total_views": 247464,
+      "url1_views": 34249,
+      "url2_views": 163492,
+      "total_views": 247741,
       "tier": "",
-      "created_at": "2025-12-26T03:57:57.084Z"
+      "created_at": "2025-12-26T11:44:00.176Z"
     },
     "62": {
-      "id": "snapshot-62-1766721477291",
+      "id": "snapshot-62-1766749440443",
       "video_id": "62",
-      "url1_views": 51919,
-      "url2_views": 364277,
-      "total_views": 466196,
+      "url1_views": 52008,
+      "url2_views": 365114,
+      "total_views": 467122,
       "tier": "",
-      "created_at": "2025-12-26T03:57:57.291Z"
+      "created_at": "2025-12-26T11:44:00.443Z"
     },
     "63": {
-      "id": "snapshot-63-1766721477537",
+      "id": "snapshot-63-1766749440642",
       "video_id": "63",
-      "url1_views": 121002,
-      "url2_views": 433944,
-      "total_views": 554946,
+      "url1_views": 121244,
+      "url2_views": 435301,
+      "total_views": 556545,
       "tier": "",
-      "created_at": "2025-12-26T03:57:57.537Z"
+      "created_at": "2025-12-26T11:44:00.642Z"
     },
     "64": {
-      "id": "snapshot-64-1766721477762",
+      "id": "snapshot-64-1766749440894",
       "video_id": "64",
-      "url1_views": 10521,
-      "url2_views": 136365,
-      "total_views": 146886,
+      "url1_views": 10527,
+      "url2_views": 136541,
+      "total_views": 147068,
       "tier": "",
-      "created_at": "2025-12-26T03:57:57.762Z"
+      "created_at": "2025-12-26T11:44:00.894Z"
     },
     "65": {
-      "id": "snapshot-65-1766721478002",
+      "id": "snapshot-65-1766749441097",
       "video_id": "65",
-      "url1_views": 298394,
-      "url2_views": 1348459,
-      "total_views": 1646853,
+      "url1_views": 300552,
+      "url2_views": 1357226,
+      "total_views": 1657778,
       "tier": "silver",
-      "created_at": "2025-12-26T03:57:58.002Z"
+      "created_at": "2025-12-26T11:44:01.097Z"
     },
     "66": {
-      "id": "snapshot-66-1766721478158",
+      "id": "snapshot-66-1766749441245",
       "video_id": "66",
-      "url1_views": 374331,
+      "url1_views": 376501,
       "url2_views": 0,
-      "total_views": 374331,
+      "total_views": 376501,
       "tier": "",
-      "created_at": "2025-12-26T03:57:58.158Z"
+      "created_at": "2025-12-26T11:44:01.245Z"
     },
     "67": {
-      "id": "snapshot-67-1766721478407",
+      "id": "snapshot-67-1766749441485",
       "video_id": "67",
-      "url1_views": 12421,
-      "url2_views": 76989,
-      "total_views": 89410,
+      "url1_views": 12430,
+      "url2_views": 77139,
+      "total_views": 89569,
       "tier": "",
-      "created_at": "2025-12-26T03:57:58.407Z"
+      "created_at": "2025-12-26T11:44:01.485Z"
     },
     "68": {
-      "id": "snapshot-68-1766721478637",
+      "id": "snapshot-68-1766749441732",
       "video_id": "68",
-      "url1_views": 15346,
-      "url2_views": 125607,
-      "total_views": 140953,
+      "url1_views": 15353,
+      "url2_views": 125940,
+      "total_views": 141293,
       "tier": "",
-      "created_at": "2025-12-26T03:57:58.637Z"
+      "created_at": "2025-12-26T11:44:01.732Z"
     },
     "69": {
-      "id": "snapshot-69-1766721478913",
+      "id": "snapshot-69-1766749442005",
       "video_id": "69",
-      "url1_views": 7332,
-      "url2_views": 35424,
-      "total_views": 42756,
+      "url1_views": 7333,
+      "url2_views": 35454,
+      "total_views": 42787,
       "tier": "",
-      "created_at": "2025-12-26T03:57:58.913Z"
+      "created_at": "2025-12-26T11:44:02.005Z"
     },
     "70": {
-      "id": "snapshot-70-1766721479145",
+      "id": "snapshot-70-1766749442211",
       "video_id": "70",
-      "url1_views": 18873,
-      "url2_views": 98881,
-      "total_views": 117754,
+      "url1_views": 18875,
+      "url2_views": 98963,
+      "total_views": 117838,
       "tier": "",
-      "created_at": "2025-12-26T03:57:59.145Z"
+      "created_at": "2025-12-26T11:44:02.211Z"
     },
     "71": {
-      "id": "snapshot-71-1766721479393",
+      "id": "snapshot-71-1766749442482",
       "video_id": "71",
-      "url1_views": 3465,
-      "url2_views": 71288,
-      "total_views": 74753,
+      "url1_views": 3467,
+      "url2_views": 71465,
+      "total_views": 74932,
       "tier": "",
-      "created_at": "2025-12-26T03:57:59.393Z"
+      "created_at": "2025-12-26T11:44:02.482Z"
     },
     "72": {
-      "id": "snapshot-72-1766721479663",
+      "id": "snapshot-72-1766749442731",
       "video_id": "72",
-      "url1_views": 26699,
-      "url2_views": 189585,
-      "total_views": 216284,
+      "url1_views": 26741,
+      "url2_views": 190048,
+      "total_views": 216789,
       "tier": "",
-      "created_at": "2025-12-26T03:57:59.663Z"
+      "created_at": "2025-12-26T11:44:02.731Z"
     },
     "73": {
-      "id": "snapshot-73-1766721479899",
+      "id": "snapshot-73-1766749442983",
       "video_id": "73",
-      "url1_views": 22050,
-      "url2_views": 140810,
-      "total_views": 212860,
+      "url1_views": 22099,
+      "url2_views": 141189,
+      "total_views": 213288,
       "tier": "",
-      "created_at": "2025-12-26T03:57:59.899Z"
+      "created_at": "2025-12-26T11:44:02.983Z"
     },
     "74": {
-      "id": "snapshot-74-1766721480101",
+      "id": "snapshot-74-1766749443228",
       "video_id": "74",
-      "url1_views": 17468,
-      "url2_views": 125481,
-      "total_views": 142949,
+      "url1_views": 17480,
+      "url2_views": 125573,
+      "total_views": 143053,
       "tier": "",
-      "created_at": "2025-12-26T03:58:00.101Z"
+      "created_at": "2025-12-26T11:44:03.228Z"
     },
     "75": {
-      "id": "snapshot-75-1766721480347",
+      "id": "snapshot-75-1766749443476",
       "video_id": "75",
-      "url1_views": 2964,
-      "url2_views": 70153,
-      "total_views": 73117,
+      "url1_views": 2965,
+      "url2_views": 70183,
+      "total_views": 73148,
       "tier": "",
-      "created_at": "2025-12-26T03:58:00.347Z"
+      "created_at": "2025-12-26T11:44:03.476Z"
     },
     "76": {
-      "id": "snapshot-76-1766721480585",
+      "id": "snapshot-76-1766749443705",
       "video_id": "76",
-      "url1_views": 14424,
-      "url2_views": 92322,
-      "total_views": 156746,
+      "url1_views": 14430,
+      "url2_views": 92427,
+      "total_views": 156857,
       "tier": "",
-      "created_at": "2025-12-26T03:58:00.585Z"
+      "created_at": "2025-12-26T11:44:03.705Z"
     },
     "77": {
-      "id": "snapshot-77-1766721480786",
+      "id": "snapshot-77-1766749443952",
       "video_id": "77",
-      "url1_views": 20931,
-      "url2_views": 187646,
-      "total_views": 258577,
+      "url1_views": 20964,
+      "url2_views": 188271,
+      "total_views": 259235,
       "tier": "",
-      "created_at": "2025-12-26T03:58:00.786Z"
+      "created_at": "2025-12-26T11:44:03.952Z"
     },
     "78": {
-      "id": "snapshot-78-1766721481002",
+      "id": "snapshot-78-1766749444206",
       "video_id": "78",
-      "url1_views": 102898,
-      "url2_views": 210178,
-      "total_views": 313076,
+      "url1_views": 103271,
+      "url2_views": 210584,
+      "total_views": 313855,
       "tier": "",
-      "created_at": "2025-12-26T03:58:01.002Z"
+      "created_at": "2025-12-26T11:44:04.206Z"
     },
     "79": {
-      "id": "snapshot-79-1766721481227",
+      "id": "snapshot-79-1766749444440",
       "video_id": "79",
-      "url1_views": 21267,
-      "url2_views": 70849,
-      "total_views": 92116,
+      "url1_views": 21313,
+      "url2_views": 71008,
+      "total_views": 92321,
       "tier": "",
-      "created_at": "2025-12-26T03:58:01.227Z"
+      "created_at": "2025-12-26T11:44:04.440Z"
     },
     "80": {
-      "id": "snapshot-80-1766721481464",
+      "id": "snapshot-80-1766749444707",
       "video_id": "80",
-      "url1_views": 26264,
-      "url2_views": 212904,
-      "total_views": 289168,
+      "url1_views": 26292,
+      "url2_views": 213518,
+      "total_views": 289810,
       "tier": "",
-      "created_at": "2025-12-26T03:58:01.464Z"
+      "created_at": "2025-12-26T11:44:04.707Z"
     },
     "81": {
-      "id": "snapshot-81-1766721481697",
+      "id": "snapshot-81-1766749444906",
       "video_id": "81",
-      "url1_views": 29553,
-      "url2_views": 73935,
-      "total_views": 103488,
+      "url1_views": 29597,
+      "url2_views": 74039,
+      "total_views": 103636,
       "tier": "",
-      "created_at": "2025-12-26T03:58:01.697Z"
+      "created_at": "2025-12-26T11:44:04.906Z"
     },
     "82": {
-      "id": "snapshot-82-1766721481903",
+      "id": "snapshot-82-1766749445108",
       "video_id": "82",
-      "url1_views": 13126,
-      "url2_views": 135430,
-      "total_views": 148556,
+      "url1_views": 13145,
+      "url2_views": 135632,
+      "total_views": 148777,
       "tier": "",
-      "created_at": "2025-12-26T03:58:01.903Z"
+      "created_at": "2025-12-26T11:44:05.108Z"
     },
     "83": {
-      "id": "snapshot-83-1766721482155",
+      "id": "snapshot-83-1766749445376",
       "video_id": "83",
-      "url1_views": 164664,
-      "url2_views": 137053,
-      "total_views": 301717,
+      "url1_views": 164958,
+      "url2_views": 137526,
+      "total_views": 302484,
       "tier": "",
-      "created_at": "2025-12-26T03:58:02.155Z"
+      "created_at": "2025-12-26T11:44:05.376Z"
     },
     "84": {
-      "id": "snapshot-84-1766721482398",
+      "id": "snapshot-84-1766749445590",
       "video_id": "84",
-      "url1_views": 24126,
-      "url2_views": 76839,
-      "total_views": 100965,
+      "url1_views": 24141,
+      "url2_views": 76853,
+      "total_views": 100994,
       "tier": "",
-      "created_at": "2025-12-26T03:58:02.398Z"
+      "created_at": "2025-12-26T11:44:05.590Z"
     },
     "85": {
-      "id": "snapshot-85-1766721482681",
+      "id": "snapshot-85-1766749445829",
       "video_id": "85",
-      "url1_views": 75958,
-      "url2_views": 190850,
-      "total_views": 266808,
+      "url1_views": 76156,
+      "url2_views": 191426,
+      "total_views": 267582,
       "tier": "",
-      "created_at": "2025-12-26T03:58:02.681Z"
+      "created_at": "2025-12-26T11:44:05.829Z"
     },
     "86": {
-      "id": "snapshot-86-1766721482878",
+      "id": "snapshot-86-1766749446099",
       "video_id": "86",
-      "url1_views": 18119,
-      "url2_views": 113933,
-      "total_views": 132052,
+      "url1_views": 18170,
+      "url2_views": 114615,
+      "total_views": 132785,
       "tier": "",
-      "created_at": "2025-12-26T03:58:02.878Z"
+      "created_at": "2025-12-26T11:44:06.099Z"
     },
     "87": {
-      "id": "snapshot-87-1766721483078",
+      "id": "snapshot-87-1766749446327",
       "video_id": "87",
-      "url1_views": 22822,
-      "url2_views": 180587,
-      "total_views": 203409,
+      "url1_views": 22874,
+      "url2_views": 181316,
+      "total_views": 204190,
       "tier": "",
-      "created_at": "2025-12-26T03:58:03.078Z"
+      "created_at": "2025-12-26T11:44:06.327Z"
     },
     "88": {
-      "id": "snapshot-88-1766721483278",
+      "id": "snapshot-88-1766749446558",
       "video_id": "88",
-      "url1_views": 39698,
-      "url2_views": 226486,
-      "total_views": 316184,
+      "url1_views": 39731,
+      "url2_views": 226917,
+      "total_views": 316648,
       "tier": "",
-      "created_at": "2025-12-26T03:58:03.278Z"
+      "created_at": "2025-12-26T11:44:06.558Z"
     },
     "89": {
-      "id": "snapshot-89-1766721483478",
+      "id": "snapshot-89-1766749446792",
       "video_id": "89",
-      "url1_views": 36641,
-      "url2_views": 197480,
-      "total_views": 284121,
+      "url1_views": 36670,
+      "url2_views": 197667,
+      "total_views": 284337,
       "tier": "",
-      "created_at": "2025-12-26T03:58:03.478Z"
+      "created_at": "2025-12-26T11:44:06.792Z"
     },
     "90": {
-      "id": "snapshot-90-1766721483710",
+      "id": "snapshot-90-1766749447024",
       "video_id": "90",
-      "url1_views": 29742,
-      "url2_views": 75681,
-      "total_views": 105423,
+      "url1_views": 29931,
+      "url2_views": 76003,
+      "total_views": 105934,
       "tier": "",
-      "created_at": "2025-12-26T03:58:03.710Z"
+      "created_at": "2025-12-26T11:44:07.024Z"
     },
     "91": {
-      "id": "snapshot-91-1766721483939",
+      "id": "snapshot-91-1766749447295",
       "video_id": "91",
-      "url1_views": 48239,
-      "url2_views": 492999,
-      "total_views": 541238,
+      "url1_views": 48464,
+      "url2_views": 494693,
+      "total_views": 543157,
       "tier": "",
-      "created_at": "2025-12-26T03:58:03.939Z"
+      "created_at": "2025-12-26T11:44:07.295Z"
     },
     "92": {
-      "id": "snapshot-92-1766721484173",
+      "id": "snapshot-92-1766749447566",
       "video_id": "92",
-      "url1_views": 20223,
-      "url2_views": 278608,
-      "total_views": 348831,
+      "url1_views": 20290,
+      "url2_views": 280144,
+      "total_views": 350434,
       "tier": "",
-      "created_at": "2025-12-26T03:58:04.173Z"
+      "created_at": "2025-12-26T11:44:07.566Z"
     },
     "93": {
-      "id": "snapshot-93-1766721484437",
+      "id": "snapshot-93-1766749447773",
       "video_id": "93",
-      "url1_views": 55433,
-      "url2_views": 311840,
-      "total_views": 367273,
+      "url1_views": 55878,
+      "url2_views": 313916,
+      "total_views": 369794,
       "tier": "",
-      "created_at": "2025-12-26T03:58:04.437Z"
+      "created_at": "2025-12-26T11:44:07.773Z"
     }
   }
 }
